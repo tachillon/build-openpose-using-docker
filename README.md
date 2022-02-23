@@ -1,6 +1,4 @@
-# build-openpose-using-docker
-Build OpenPose GitHub Project using docker
-
+# Build CMU OpenPose using Docker
 CAUTION: the machine on which you build the docker needs to have NVidia drivers installed since we are going to install OpenPose with CUDA support.
 
 # How to build using docker
